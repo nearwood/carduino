@@ -23,16 +23,17 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
-FILE_NAME_0=230;C;0;EUTF-8;1;1;0;%2Fhome%2Fnearwood%2Fdev%2Farduino%2Fcarduino%2Fsrc%2Fmain.c;0;4
-FILE_NAME_1=175;Make;0;EUTF-8;1;1;0;%2Fhome%2Fnearwood%2Fdev%2Farduino%2Fcarduino%2Fmakefile;0;4
-FILE_NAME_2=1118;C;0;EUTF-8;1;1;0;%2Fhome%2Fnearwood%2Fdev%2Farduino%2Farduino-1.5.3-Intel.1.0.4%2Fhardware%2Farduino%2Fx86%2Fcores%2Farduino%2FArduino.h;0;4
-FILE_NAME_3=2980;C;0;EUTF-8;1;1;0;%2Fhome%2Fnearwood%2Fdev%2Farduino%2Farduino-1.5.3-Intel.1.0.4%2Fhardware%2Farduino%2Fx86%2Fvariants%2Fgalileo_fab_d%2Fvariant.h;0;4
-FILE_NAME_4=11875;C++;0;EUTF-8;1;1;0;%2Fhome%2Fnearwood%2Fdev%2Farduino%2Farduino-1.5.3-Intel.1.0.4%2Fhardware%2Farduino%2Fx86%2Fvariants%2Fgalileo_fab_d%2Fvariant.cpp;0;4
-FILE_NAME_5=0;Make;0;EUTF-8;1;1;0;%2Fhome%2Fnearwood%2Fdev%2Farduino%2Fcarduino%2Fenv.mk;0;4
+current_page=6
+FILE_NAME_0=294;C;0;EUTF-8;1;1;0;%2Fhome%2Fnick%2Fdev%2Farduino%2Fcarduino%2Fsrc%2Fmain.c;0;4
+FILE_NAME_1=1470;Make;0;EUTF-8;1;1;0;%2Fhome%2Fnick%2Fdev%2Farduino%2Fcarduino%2Fmakefile;0;4
+FILE_NAME_2=1583;Make;0;EUTF-8;1;1;0;%2Fhome%2Fnick%2Fdev%2Farduino%2Fcarduino%2Fenv.mk;0;4
+FILE_NAME_3=1014;None;0;EUTF-8;1;1;0;%2Fhome%2Fnick%2Fdev%2Farduino%2Fcarduino%2Fcompile-output.txt;0;4
+FILE_NAME_4=668;Make;0;EUTF-8;1;1;0;%2Fhome%2Fnick%2Fdev%2Farduino%2Farduino-1.5.3-Intel.1.0.4%2Fhardware%2Farduino%2Fx86%2Fino.mk;0;4
+FILE_NAME_5=747;None;0;EUTF-8;1;1;0;%2Fhome%2Fnick%2Fdev%2Farduino%2Farduino-1.5.3-Intel.1.0.4%2Fhardware%2Farduino%2Fx86%2Fino_conf.txt;0;4
+FILE_NAME_6=2517;None;0;EUTF-8;1;1;0;%2Fhome%2Fnick%2Fdev%2Farduino%2Farduino-1.5.3-Intel.1.0.4%2Fhardware%2Farduino%2Fx86%2Fplatform.linux64.txt;0;4
 
 [VTE]
-last_dir=/home/nearwood/dev/arduino/carduino
+last_dir=/home/nick/dev/arduino/carduino
 
 [build-menu]
 NF_00_LB=_Make
